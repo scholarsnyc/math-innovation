@@ -27,7 +27,7 @@ For the most part, this is uncharted territory and—in many ways—there is no 
 
 ### End Products
 
-We can wax poetic on the merits of good pedagogy, but to quote Steve Jobs: "[Real artists ship.][ship]" Eight hours is not a lot of time—especially if you've made the mistake of eating a lot of bread for lunch. So, what can we expect to ship at the end of our time together?
+We can wax poetic on the merits of good pedagogy, but to quote Steve Jobs: ["Real artists ship."][ship] Eight hours is not a lot of time—especially if you've made the mistake of eating a lot of bread for lunch. So, what can we expect to ship at the end of our time together?
 
 [ship]: http://www.visualnews.com/2011/10/07/inspiration-from-steve-jobs-real-artists-ship/
  
