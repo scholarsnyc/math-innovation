@@ -4,6 +4,16 @@ title: First Flight, August 2012
 categories: agendas
 ---
 
+## Overarching Question
+
+How may math lesson planning, instruction, and student learning change to maximize the attributes of these individualized learning tools (ICT)?
+
+## Essential Questions
+
+* How can these ICT's assist in creating a culture of inquiry and project based learning?
+* What specific practices, lesson planning changes, curriculum adjustments, or philosophical approaches can w envision or engage with during this process?
+* How can we gather and organize our thoughts and share our ideas going forward as a math team throughout the year?
+
 ## Objectives
 
 The primary objective of this little get-together is to take some time to:
@@ -162,3 +172,8 @@ We will use design exercises as the primary method for rapidly prototyping ideas
 [Podcasts]: http://itunes.apple.com/us/app/podcasts/id525463029?mt=8 "Podcasts"
 [Edline]: http://edline.net "Edline"
 
+## Post-Script
+
+Education is transforming rapidly. We are at the precipice of these tools becoming ubiquitous. However, the slate is clear to draft an equation that balances and outlines how the educator, student, and ICT interact to maximize learning. In terms of mathematics, this is this pilot team's task: to investigate how instruction may change to maximize student learning via ICT use. Research thus far points to inquiry and project based lessons as the keys to leveraging ICT use to enhance learning.
+
+The specifics of that recipe have yet to be discovered. The math team of grade 7 & 8 will collaborate around this issue this year to better inform our practices building wide admire teachers and students get access to ICT's.
