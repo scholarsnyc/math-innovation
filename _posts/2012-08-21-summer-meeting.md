@@ -1,7 +1,9 @@
 ---
+
 layout: default
 title: First Flight, August 2012
 categories: agendas
+
 ---
 
 ## Overarching Question
