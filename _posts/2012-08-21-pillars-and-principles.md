@@ -1,7 +1,7 @@
 ---
 
 layout: default
-title: Principles and Principles
+title: Pillars and Principles
 categories: notes
 
 ---
